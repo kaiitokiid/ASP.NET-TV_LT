@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ASP.NET_MVC_TV_LT.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,11 +14,15 @@ namespace ASP.NET_MVC_TV_LT.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult About(string id)
         {
-            ViewBag.Message = "Your application description page.";
+            MyModel myobj = new MyModel();
+            myobj.NAME = "Nguyễn Quốc Bảo";
+            myobj.PHONE = "0947106062";
 
-            return View();
+            ViewBag.abc = "Your application description page. " + id;
+
+            return View(myobj);
         }
 
         public ActionResult Contact()

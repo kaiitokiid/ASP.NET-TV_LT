@@ -77,6 +77,5 @@ D:\ASP.NET MVC\ASP.NET MVC TV-LT\ASP.NET MVC TV-LT\bin\Microsoft.Owin.Security.O
 D:\ASP.NET MVC\ASP.NET MVC TV-LT\ASP.NET MVC TV-LT\bin\Microsoft.Owin.Security.Google.xml
 D:\ASP.NET MVC\ASP.NET MVC TV-LT\ASP.NET MVC TV-LT\bin\Microsoft.Owin.Security.Twitter.xml
 D:\ASP.NET MVC\ASP.NET MVC TV-LT\ASP.NET MVC TV-LT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\ASP.NET MVC\ASP.NET MVC TV-LT\ASP.NET MVC TV-LT\obj\Debug\ASP.NET MVC TV-LT.csprojResolveAssemblyReference.cache
 D:\ASP.NET MVC\ASP.NET MVC TV-LT\ASP.NET MVC TV-LT\obj\Debug\ASP.NET MVC TV-LT.dll
 D:\ASP.NET MVC\ASP.NET MVC TV-LT\ASP.NET MVC TV-LT\obj\Debug\ASP.NET MVC TV-LT.pdb
